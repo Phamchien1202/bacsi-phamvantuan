@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu Phạm Văn Tuân</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Giới thiệu về tôi</h1>
+        </header>
+        <main>
+            <section class="about">
+                <h2>Thông tin cá nhân</h2>
+                <p><strong>Họ và tên:</strong> Phạm Văn Tuân</p>
+                <p><strong>Năm sinh:</strong> 1992</p>
+                <p><strong>Trường học:</strong> Đại học Y Thái Bình</p>
+                <p><strong>Nơi làm việc:</strong> Khoa Phục hồi Chức năng, Bệnh viện Thanh Nhàn</p>
+                <p><strong>Kinh nghiệm:</strong> Hơn 10 năm kinh nghiệm làm việc</p>
+                <p><strong>Số điện thoại:</strong> 0382936504</p>
+                <p><strong>Địa điểm:</strong> Bệnh viện Thanh Nhàn, Hà Nội</p>
+            </section>
+            <section class="mission">
+                <h2>Mong muốn</h2>
+                <p>Hỗ trợ sức khỏe cho các bệnh nhân bị cơ và xương khớp, mang lại cuộc sống tốt đẹp hơn cho mọi người.</p>
+            </section>
+        </main>
+        <footer>
+            <p>Liên hệ: 0382936504 | Địa điểm: Bệnh viện Thanh Nhàn, Hà Nội</p>
+        </footer>
+    </div>
+</body>
+</html>
+
+
